@@ -2,6 +2,9 @@ package kg.tima.extteds;
 
 public class Almaz {
 
+    String name;
+
+
     public Almaz(){
 
     }
