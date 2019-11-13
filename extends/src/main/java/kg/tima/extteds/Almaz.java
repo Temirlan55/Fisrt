@@ -3,6 +3,7 @@ package kg.tima.extteds;
 public class Almaz {
 
     String name;
+    int age;
 
 
     public Almaz(){
